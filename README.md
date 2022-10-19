@@ -3,7 +3,8 @@ Hi! I'm Joe. If you have any questions please reach out to me via email. You can
 # About Me
 MSEE Temple University | Expected December 2022 \
 &ensp;&ensp;    Advisors: Dr. Li Bai, Dr. Philip Dames \
-&ensp;&ensp;  Topics: Mobile Robot Problem Solving, Aerial Robot Path Planning \
+&ensp;&ensp;  Topics: Mobile Robot Problem Solving, Aerial Robot Path Planning 
+<br><br/>
 BSEE The College of New Jersey | May 2020 \
  &ensp;&ensp; Advisor: Dr. Ambrose Adegbege  \
  &ensp;&ensp; Topics: Embedded Model Predictive Control  

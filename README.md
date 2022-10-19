@@ -1,6 +1,18 @@
-Hi! I'm Joe. If you have any questions please reach out to me via email. 
+Hi! I'm Joe. If you have any questions please reach out to me via email. You can find some info on my website, although it is a bit outdated. 
 
-Email: joebrunoee55@gmail.com 
+# About Me
+MSEE Temple University | Expected December 2022 \
+&ensp;&ensp;    Advisors: Dr. Li Bai, Dr. Philip Dames \
+&ensp;&ensp;  Topics: Mobile Robot Problem Solving, Aerial Robot Path Planning \
+BSEE The College of New Jersey | May 2020 \
+ &ensp;&ensp; Advisor: Dr. Ambrose Adegbege  \
+ &ensp;&ensp; Topics: Embedded Model Predictive Control  
+
+Email: joebrunoee55@gmail.com \
+Personal Site: https://brunoj6.github.io
+
+
+# Projects & Interests
 
 ## Research Interests:
 - Multi Agent Robotics

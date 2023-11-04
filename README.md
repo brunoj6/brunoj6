@@ -1,13 +1,20 @@
-Hi! I'm Joe. If you have any questions please reach out to me via email. You can find some info on my website, although it is a bit outdated. 
+## Hi! I'm Joe.
+
+I teach machines not just to sense, but to understand the complex tapestry of our world with precision and curiosity.
 
 # About Me
-MSEE Temple University | Expected December 2022 \
+
+PhD in Mechanical Engineering | Temple University \
+&ensp;&ensp;    Advisor:  Dr. Philip Dames \
+&ensp;&ensp;  Topics: 3D Reconstruction, Socially Aware Navigation
+<br><br/>
+Master of Science in Electrical Engineering | Temple University | August 2022 \
 &ensp;&ensp;    Advisors: Dr. Li Bai, Dr. Philip Dames \
 &ensp;&ensp;  Topics: Mobile Robot Problem Solving, Aerial Robot Path Planning 
 <br><br/>
 BSEE The College of New Jersey | May 2020 \
  &ensp;&ensp; Advisor: Dr. Ambrose Adegbege  \
- &ensp;&ensp; Topics: Embedded Model Predictive Control  
+ &ensp;&ensp; Topics: Embedded Model Predictive Control
 
 Email: joebrunoee55@gmail.com \
 Personal Site: https://brunoj6.github.io

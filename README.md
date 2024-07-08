@@ -1,12 +1,10 @@
 ## Hi! I'm Joe.
 
-I teach machines not just to sense, but to understand the complex tapestry of our world with precision and curiosity.
-
 # About Me
 
 PhD in Mechanical Engineering | Temple University \
 &ensp;&ensp;    Advisor:  Dr. Philip Dames \
-&ensp;&ensp;  Topics: 3D Reconstruction, Socially Aware Navigation
+&ensp;&ensp;  Topics: 3D Neural Reconstruction, Drone Path Planning & Navigation
 <br><br/>
 Master of Science in Electrical Engineering | Temple University | August 2022 \
 &ensp;&ensp;    Advisors: Dr. Li Bai, Dr. Philip Dames \
@@ -23,14 +21,16 @@ Personal Site: https://brunoj6.github.io
 # Projects & Interests
 
 ## Research Interests:
-- Multi Agent Robotics
-- Aerial Robot Path Planning
-- Human Robot Safety and Interaction
+- NeRF / 3D Gaussian Splats
+- Drone Planning
+- Computer Vision
 
-## Personal Hobbies:
-- Cooking & Baking
-- Video Games
-- Hiking and Camping 
+## Current Hobbies
+Podcast: No Stupid Questions (Angela Duckworth & Mike Maughan)
+Book: A Brief History of Intelligence (Max Bennet)
+Recipe: Carnitas (Kenji Lopez-Alt)
+Video Game: Elden Ring (Shadow of the Erdtree)
+
 
 ## Previous Projects:
 - Single Drone Inspection Planner 

@@ -23,7 +23,7 @@ Personal Site: https://brunoj6.github.io
 - Computer Vision
 
 ## Current Hobbies
-Podcast: No Stupid Questions (Angela Duckworth & Mike Maughan)
-Book: A Brief History of Intelligence (Max Bennet)
-Recipe: Carnitas (Kenji Lopez-Alt)
-Video Game: Elden Ring (Shadow of the Erdtree)
+**Podcast**: No Stupid Questions (Angela Duckworth & Mike Maughan) \
+**Book:** A Brief History of Intelligence (Max Bennet) \
+**Recipe:** Carnitas (Kenji Lopez-Alt) \
+**Video Game:** Elden Ring (Shadow of the Erdtree) 

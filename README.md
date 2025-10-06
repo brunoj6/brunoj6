@@ -10,7 +10,7 @@ Visiting Student Researcher | Stanford University \
 &ensp;&ensp;    Advisor:  Dr. Mac Schwager \
 &ensp;&ensp;  Topics: Cooperative Manipulation, Robot Control Policy
 <br><br/>
-Master of Science in Electrical Engineering | Temple University | August 2022 \
+Master of Science in Electrical Engineering | Temple University | August 2023 \
 &ensp;&ensp;    Advisors: Dr. Li Bai, Dr. Philip Dames \
 &ensp;&ensp;  Topics: Mobile Robot Problem Solving, Aerial Robot Path Planning 
 <br><br/>
